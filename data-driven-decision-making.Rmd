@@ -13,7 +13,7 @@ Search Youtube for a suitable business case example on data driven decision maki
 
 <---- Replace this video with your business case example ---->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R_sQuQUE8CM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TB8n1FXtaLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Why was data driven decision making (3DM) useful in this business case?
  
