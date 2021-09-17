@@ -10,21 +10,39 @@ output:
 
 Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
 
-<---- Watch this video if you don't know how to embed video's ---->
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9YffrCViTVk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <---- Replace this video with your business case example ---->
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R_sQuQUE8CM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Why was data driven decision making (3DM) useful in this business case?
+ 
+Tumor of unknown origin is accountable for the 5% of newly discovered cancer. Average survival time is between 9-12 months from diagnosis. So it is very important to establish tumor type and sub-type to be able to guide standard of care treatment (Tempus, 2020). 
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+In Healthcare many data solutions are focusing on a specific/ a small part of a big problem. So there is a need for a holistic approach where different parts of the puzzle can be combined to be able to make accurate predication regarding suitable treatment for cancer patients. 
+
 
 ## How did the organization apply 3DM?
+Tempus is serving a data solution through which an accurate prediction are made for a best treatment for a given cancer patient. This is done by the holistic approach of Tempus. Instead of making prediction based on for example, personal and familiy history, Tempus combines multiple data sources from the multiple disciplines: phonetypic data, morphological data and molecular data. These data types can be described as text, images and molecules. 
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Phenotypic data contain clinical information such as disease symptoms, demographic data such us age, sex, ethnicity. This type of data is collected and stored by patients register and bio-banks (RD Connect, n.d.). 
+According to Morphology(n.d.) morphology is literally, the study of form. In medicine, morphology refers to the size, shape and structure rather than the function of a given organ. As a diagnostic imaging technique, ultrasound facilitates the recognition of abnormal morphologies as symptoms of underlying conditions. 
+Molecular data contains information about organisms such hereditary molucule differences, predominantly in DNA sequences to gain information on organisms evolutionary relationship (Sinkala, M., Mulder, N., & Martin, D., 2020). 
+
+To be able to make a this data analysis model work Tempus has initiated projects in Healthcare organization to make the current data environment fit for what Tempus trying to achieve. They have consulted and advised hospitals to implement different data collection methods so that collected data from different dimensions (phenotype, morphological and molecular) can be combined and used for analysis and predictions. 
 
 ## What can the organization do with 3DM that they couldn’t do before?
+Tempus is now able to collect data from 3 different dimansions which made a holistic approach  possible for cancer treatment. They have now have the ablity to collect low cost clinical data and combine that with moleculair data and use machine learning and algorithems to to try to figure out what kind of patterns and trends are there. So that the oncologist can make data driven decisions regarding medicine and treatment (Tempus, 2020). 
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+## References
+
+Morphology. (n.d.) Farlex Partner Medical Dictionary. (2012). Retrieved September 17 2021 from https://medical-dictionary.thefreedictionary.com/morphology 
+
+RD Connect. (n.d.) Phenotypic data type. Retrieved September 17 2021 from
+https://rd-connect.eu/what-we-do/phenotypic-data/ 
+
+Tempus. (2020). Data-drive precision medicine. Retrieved September 17 2021 from
+https://www.tempus.com/ 
+
+Sinkala, M., Mulder, N., & Martin, D. (2020). Machine learning and network analyses reveal disease subtypes of pancreatic cancer and their molecular characteristics. Scientific reports, 10(1), 1-14.
+
