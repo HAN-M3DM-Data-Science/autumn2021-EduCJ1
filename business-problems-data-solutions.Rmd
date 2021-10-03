@@ -1,0 +1,38 @@
+---
+title: "Assigment - Data Problems vs Data Solutions"
+author: name author here
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+---
+# Tesla Autonomy Day
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ucp0TTmvqOE?start=7509" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external='1'></iframe>
+
+## What was the business problem?
+
+Tesla is a pioneer in the electrical vehicle  market. The company is also a leading player in manufacturing and selling advanced battery and solar panel technology (Tesla, 2019). 
+
+Electrical vehicle and self-driving cars are already existed before Tesla brought its product to the market, for example Google's Waymo. Tesla aimed however to differentiate itself from the competition by collecting data from their cars on the road for analysis purposes so that they can detect problems/flows in their car and fix it remotely by patching them with updates(Marr, 2021). 
+
+To summarize, the company has formulated two main problems: 1) competitive advantage through innovative vehicles, and 2) realizing high customer satisfaction through high quality and safe (self-driving) vehicles. Ultimate goal of Tesla is to be the leading company in branch, to achieve  this goal, continuous innovation and change are essential, which needs accurate decisions with regards to investment into certain products and project.    
+
+## How was it translated into a data mining problem?
+
+Tesla has started offering "tech package" as an optional upgrade for its vehicles since 2014. This upgrade includes special camera's and sensors. The company has developed a machine learning algorithm that is fed with the data from these sensors and camera's. They also have included data from their customer satisfaction forms which basically collects data from its online forms and platforms and analyses this data, to pinpoint a demand pattern by its customers. The algorithm is also fed by data that is being collected by other Tesla vehicles. Lastly Tesla's affordable Model 3 has made sure that there are more Tesla cars on the traffic, which are feeding the machine learning algorithm with more and more data (Singh, 2021). 
+
+
+## What is the realized business value?
+
+A large amount of data that is collected from costumer satisfaction forms, from the vehicles and other sources has lead to increase in customer satisfaction by providing safe self driving cars. They have released for example an update that fixed the overheating problems of the Tesla vehicles due to power fluctuation. The ability to fix issues in the vehicle remotely made Tesla unique, which also increased its competitive advantage. 
+
+## Referances
+1. Marr, B. (2021, July 2). The Amazing Ways Tesla Is Using Artificial Intelligence And Big Data. Retrieved on 25 September from
+https://bernardmarr.com/the-amazing-ways-tesla-is-using-artificial-intelligence-and-big-data/
+
+2. Singh, V. (2021, Maarch 23). Tesla: A Data driven future. Retrived on 29 September 2021, from         https://digital.hbs.edu/platform-digit/submission/tesla-a-data-driven-future/ 
+
+3.  Tesla. (2019, April 22). Tesla Autonomy Day [Video]. Youtube. https://www.youtube.com/watch?v=Ucp0TTmvqOE 
+
