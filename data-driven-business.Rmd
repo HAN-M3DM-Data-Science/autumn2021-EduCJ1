@@ -1,0 +1,63 @@
+---
+title: "Assigment - Data Driven Business"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+---
+
+# How to become more data-driven?
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QlqI0gGOjo4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external='1'></iframe>
+
+
+## What features define a data driven business?
+One of the leading energy companies Shell has been at the forefront of creating a cleaner future by investing in digital technology. Across the business the are turning to data and AI to improve operational effectiveness, increase customer engagement, and initiate new innovations like renewable energy. 
+
+Like other energy supplier, Shell has access to massive amount of data, that comes in petabytes. Shell has the ability to recognize this and turn it into an advantage. Shell has a two-speed approach towards data driven business concept: getting/maintaining high quality data and infrastructure (technology), hiring the right roles and implementing standardization (people and processes), while making these three elements of the company matter for the business and business problems. In other words the company the company takes a step back and thinks about the business strategies (with a significant impact on the market), after which they start answering the questions such us how does data and AI become relevant to solve business challenges (Shell, n.d.). 
+
+## What are the important features of a data culture?
+
+Due to the rapid technological developments a similar business problem can be solved in many different ways. And Shell recognizes this and learns from the others and from the best practices. The company leverages the information available in the market to be able to bring the right expertise into the company (Bernard, 2020). 
+
+It is crucial to make sure that the people in the company have the skills to use the data and the ability to access the data, know how to use it, and gather insights. The companies culture must support fact-based, data-driven decision making. The culture also needs to make sure that it's encouraged and norm (Bernard, 2020). 
+
+Shell invests continuously in professionalizing the core work of data scientists and others who would spend all their time solving complex problems and challenges of the company. They have for example developed a tailored program and aligned these roles with other disciplines in Shell. Through its program the company trains not only its data scientists but also the employees who are dealing mainly with the business problems by educating them on how to access and use data to take the right insights. 
+Another major cultural element of Shell is the group called Shell AI community, which has more then 2000 people who are learning working on using data on new ways to drive the business performance. Shell schedules hackathons between data specialists and AI community where they collaborate to develop small and rapid solutions in very short time scale (Shell, n.d.). 
+
+Lastly the company makes sure that there bridge between data and business. This realized by people so called business translators, who can speak the language of data and technology as well as business. The company invests heavily in training people for this role (Bernard, 2020). 
+
+ 
+## What are the transformation steps towards a mature data driven business?
+
+For Shell the first step is to analyse and think about the business challenges, before jumping into investigations of data, technology and infrastructure. If the significant business challenges are identified, the next step is to determine how data and AI can help solving this problem (Bernard, 2020). 
+
+According to Berndtsson, Mikael & Forsberg, Daniel & Stein, Daniel & Svahn, Thomas. (2018) the data driven and analytic ability and of an organisation can be categorized as below:
+
+**Level 1**
+
+Organisation at Level 1 are immature in data and analytics. They lack the dedicated, data and BI team. The most important historical events are mostly maintained and transferred through a spreadsheet. The validity of the data is quite low due to manually entered data inputs, which has high chance intuition human error. This leads to situation where decision takers ignore data and take decision based on intuition. 
+
+**Level 2**
+
+In this phase organisations takes a major step towards analyzing and collecting historical data in a systematic manner. For the collection of the data and for the analyses there is dedicated team or a function. Typically a data warehouse is available through which dashboards and rapports can be created from the past events. 
+
+**Level 3**
+
+In this phase the organisations has moved into advanced analytics, and uses data mining tools to discover previously unknown business patterns. This brings a test and learn culture within regarding how to discover new business insights. It is also common that organisations has different departments for analytics and predictions. The data in the data warehouse is secured and the information from this data warehouse trusted by most employees. There are also various tools available to access the data. 
+
+**Level 4**
+
+At this level the organisation has reached a organisation wide units for analytics, where the units are responsible for all type data related subjects. Implementing data and analytics solutions and discovering new business insights as soon as possible is an emphasis in the organisation. There are variety of tools available for descriptive and predictive analytics. 
+
+
+
+# References 
+1. Bernard Marr. (2020, April 24). How To Become A More Data-Driven Company: Insights From Shell [Video]. Youtube. https://www.youtube.com/watch?v=QlqI0gGOjo4 
+
+2. Berndtsson, Mikael & Forsberg, Daniel & Stein, Daniel & Svahn, Thomas. (2018). Becoming a data-driven organisation. 
+
+3. Shell. (n.d.). DRIVEN BY DATA: MANAGING FLEET INFORMATION OVERLOAD. Retrieved on 01.10.2021 from https://www.shell.com/business-customers/shell-fleet-solutions/driven-by-data.html#formnew 
+
